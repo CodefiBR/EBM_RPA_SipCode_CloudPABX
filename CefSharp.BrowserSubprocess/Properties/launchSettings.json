@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "CefSharp.BrowserSubprocess.netcore": {
-      "commandName": "Project",
-      "nativeDebugging": true
-    }
-  }
-}
